@@ -10,7 +10,7 @@
     "Matus Dubrava <matus@bitaccess.co>"
   ],
   "engines": {
-    "node": "12",
+    "node": "16",
     "npm": "6"
   },
   "license": "MIT",
